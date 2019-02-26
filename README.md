@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css.
+Oleg Pashuk HTML CSS Basic:
+https://www.codecademy.com/oleg4646383038
