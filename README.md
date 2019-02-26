@@ -1,2 +1,2 @@
 Aleg Pashuk 
-HTML CSS Basic: https://www.codecademy.com/oleg4646383038
+HTML CSS Basic: https://www.codecademy.com/users/oleg4646383038/achievements
